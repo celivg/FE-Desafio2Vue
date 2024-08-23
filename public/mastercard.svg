@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1058" height="596" viewBox="0 0 1058 596">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="824.954" height="509.862" transform="translate(0 0.001)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_1-Mastercard-logo-24">
+      <rect width="1058" height="596"/>
+    </clipPath>
+  </defs>
+  <g id="_1-Mastercard-logo-24" data-name="1-Mastercard-logo-24" clip-path="url(#clip-_1-Mastercard-logo-24)">
+    <g id="Grupo_3" data-name="Grupo 3" transform="translate(116.523 43.068)">
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="223.046" height="400.87" transform="translate(300.374 54.493)" fill="#ff5f00"/>
+      <g id="Grupo_2" data-name="Grupo 2">
+        <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path)">
+          <path id="Trazado_1" data-name="Trazado 1" d="M315.091,254.932A254.465,254.465,0,0,1,412.481,54.5,253.838,253.838,0,0,0,254.931,0C114.135,0,0,114.134,0,254.932s114.134,254.931,254.93,254.931a253.841,253.841,0,0,0,157.55-54.5,254.465,254.465,0,0,1-97.39-200.431" fill="#eb001b"/>
+          <path id="Trazado_2" data-name="Trazado 2" d="M800.612,412.894v-8.2h3.311v-1.671H795.5v1.671h3.311v8.2Zm16.365,0v-9.889H814.4l-2.976,6.8-2.968-6.8H805.87v9.889h1.823v-7.46l2.779,6.432h1.9l2.786-6.447v7.475Z" fill="#f59e00"/>
+          <path id="Trazado_3" data-name="Trazado 3" d="M570.022,0A253.835,253.835,0,0,0,412.474,54.5a254.944,254.944,0,0,1,0,400.863,253.838,253.838,0,0,0,157.549,54.5c140.8,0,254.931-114.134,254.931-254.931S710.82,0,570.022,0" fill="#f79e1b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
